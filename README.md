@@ -1,2 +1,2 @@
-# SwiftStudy1
+# SwiftStudy
 For Studying Swift
