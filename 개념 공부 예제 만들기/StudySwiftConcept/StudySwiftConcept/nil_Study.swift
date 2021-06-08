@@ -9,3 +9,4 @@ let str2 = "123"
 
 print(Int(str1) == nil ? 0 : 1)
 print(Int(str2) == nil ? 0 : 1)
+    
