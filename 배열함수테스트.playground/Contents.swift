@@ -17,3 +17,9 @@ var str1 = "1234"
 var str2 = str1.reversed()
 print(str2)
 print(arr.reversed())
+// reversed 함수의 반환 타입,,에 대해 알아보는 중!
+
+var arr2 = ["1", "2", "3", "4", "5"]
+print(arr2.joined())
+// joined는 '문자열'을 담은 배열에만 쓸 수 있음!!!!!!!
+// 입력 받는게 애초에 [String] 타입임.
