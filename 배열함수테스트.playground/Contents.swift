@@ -12,3 +12,8 @@ print(arr.removeAll(where: {$0 == 3}))
 print(arr)
 // removeAll하고, where절에 클로저 사용하면
 // 위치를 모르고도 원하는 요소들을 모두 삭제할 수 있다!!
+
+var str1 = "1234"
+var str2 = str1.reversed()
+print(str2)
+print(arr.reversed())
