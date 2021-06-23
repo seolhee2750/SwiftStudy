@@ -24,5 +24,8 @@ print(arr2.joined())
 // joined는 '문자열'을 담은 배열에만 쓸 수 있음!!!!!!!
 // 입력 받는게 애초에 [String] 타입임.
 
-var arr3 = Array(repeating: 1, count: 3)
+var arr3 = Array(repeating: 1, count: 5)
+print(arr3)
+var a = [1, 3]
+arr3.map({ a[$0] -= 1 })
 print(arr3)
