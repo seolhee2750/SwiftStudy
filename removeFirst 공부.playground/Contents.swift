@@ -7,8 +7,10 @@ arr[0]
 
 var arr2 = [10]
 arr2[0]
-arr2.removeFirst()
-arr2.count
+// arr2.removeFirst()
+// arr2.count
+arr2.removeLast()
+print(arr2)
 
 var a = 4
 
