@@ -19,8 +19,3 @@ arr.sorted{$0 > $1}
 
 // 연산자의 클로저 대체
 arr.sorted(by: >)
-
-arr.sorted(by: {$0 < $1})
-arr.sorted{$0 < $1}
-
-arr.sorted(by: <)
