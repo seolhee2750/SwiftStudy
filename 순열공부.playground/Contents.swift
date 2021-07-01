@@ -5,7 +5,7 @@
 
 import Foundation
 
-func permuDFS(phase: Int) {
+func permuDFS(_ phase: Int) {
     if phase == r {
         print(result)
         return
@@ -15,7 +15,7 @@ func permuDFS(phase: Int) {
             if checkList[i] == false {
                 checkList[i] = true
                 result[phase] = numbers[i]
-                permuDFS(phase: phase + 1)
+                permuDFS(phase + 1)
                 checkList[i] = false
             }
         }
@@ -28,4 +28,4 @@ let r = 2
 var result = [Int](repeating: 0, count: r)
 var checkList = [Bool](repeating: false, count: numbers.count)
 
-permuDFS(phase: 0)
+permuDFS(0)
