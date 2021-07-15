@@ -168,4 +168,4 @@ arr10.joined() // String 배열을 String으로 변환
 arr10.joined(separator: "*") // 원하는 구분자를 넣어 String으로 변환
 // "12345"
 // "1*2*3*4*5"
-
+// 반환은 String
