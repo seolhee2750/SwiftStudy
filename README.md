@@ -1,2 +1,2 @@
 # SwiftStudy
-For Studying Swift
+스위프트 언어 공부 📝
