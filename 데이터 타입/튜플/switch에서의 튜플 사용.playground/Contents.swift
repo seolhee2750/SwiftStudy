@@ -13,4 +13,4 @@ default:
     print("(\(coordinate.x), \(coordinate.y))입니다.")
 }
 
-// (1, 2)입니다.
+// (1, 2)입니다. .
