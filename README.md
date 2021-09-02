@@ -9,8 +9,12 @@
 ## 📂 스위프트의 특성
 - 스위프트의 언어적 특성 [📋](https://seolhee2750.tistory.com/16?category=866581)
 - 일급객체 [📋](https://seolhee2750.tistory.com/55?category=866581)
-- nil [📋](https://seolhee2750.tistory.com/10?category=866581)
+
+</br>
+
+## 📂 데이터 타입
 - 타입 어노테이션과 타입 추론 [<img src="https://emojis.slackmojis.com/emojis/images/1514391005/3320/swift.png?1514391005" width="15">](https://github.com/seolhee2750/SwiftStudy/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85/%ED%83%80%EC%9E%85%20%EC%B6%94%EB%A1%A0%EA%B3%BC%20%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98.playground/Contents.swift) [📋](https://seolhee2750.tistory.com/19?category=866581)
+- 튜플 [<img src="https://emojis.slackmojis.com/emojis/images/1514391005/3320/swift.png?1514391005" width="15">](https://github.com/seolhee2750/SwiftStudy/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85/%ED%8A%9C%ED%94%8C.playground/Contents.swift)
 
 </br>
 
@@ -35,3 +39,4 @@
 - let을 사용하는 이유 [📋](https://seolhee2750.tistory.com/17?category=866582)
 - Int64 [📋](https://seolhee2750.tistory.com/18?category=866582)
 - sorted, joined 사용시 주의사항 [📋](https://seolhee2750.tistory.com/21?category=866582)
+- nil [📋](https://seolhee2750.tistory.com/10?category=866581)
