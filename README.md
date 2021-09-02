@@ -13,14 +13,15 @@
 </br>
 
 ## 📂 데이터 타입
-- 타입 어노테이션과 타입 추론 [<img src="https://emojis.slackmojis.com/emojis/images/1514391005/3320/swift.png?1514391005" width="15">](https://github.com/seolhee2750/SwiftStudy/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85/%ED%83%80%EC%9E%85%20%EC%B6%94%EB%A1%A0%EA%B3%BC%20%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98.playground/Contents.swift) [📋](https://seolhee2750.tistory.com/19?category=866581)
-- 튜플 [<img src="https://emojis.slackmojis.com/emojis/images/1514391005/3320/swift.png?1514391005" width="15">](https://github.com/seolhee2750/SwiftStudy/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85/%ED%8A%9C%ED%94%8C.playground/Contents.swift)
-
-</br>
-
-## 📂 배열
-- 배열 함수 정리 [<img src="https://emojis.slackmojis.com/emojis/images/1514391005/3320/swift.png?1514391005" width="15">](https://github.com/seolhee2750/SwiftStudy/blob/main/Summary/%EB%B0%B0%EC%97%B4/%EB%B0%B0%EC%97%B4%ED%95%A8%EC%88%98%EB%AA%A8%EC%9D%8C.playground/Contents.swift) [📋](https://seolhee2750.tistory.com/66?category=873014)
-- split과 components [<img src="https://emojis.slackmojis.com/emojis/images/1514391005/3320/swift.png?1514391005" width="15">](https://github.com/seolhee2750/SwiftStudy/tree/main/Summary/%EB%B0%B0%EC%97%B4/split%EA%B3%BC%20components) [📋](https://seolhee2750.tistory.com/92?category=866581)
+- 타입 
+  - 타입 어노테이션과 타입 추론 [<img src="https://emojis.slackmojis.com/emojis/images/1514391005/3320/swift.png?1514391005" width="15">](https://github.com/seolhee2750/SwiftStudy/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85/%ED%83%80%EC%9E%85%20%EC%B6%94%EB%A1%A0%EA%B3%BC%20%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98.playground/Contents.swift) [📋](https://seolhee2750.tistory.com/19?category=866581)
+  - sorted, joined 사용시 주의사항 (타입 캐스팅) [📋](https://seolhee2750.tistory.com/21?category=866582)
+- 튜플
+  - 튜플 [<img src="https://emojis.slackmojis.com/emojis/images/1514391005/3320/swift.png?1514391005" width="15">](https://github.com/seolhee2750/SwiftStudy/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85/%ED%8A%9C%ED%94%8C.playground/Contents.swift)
+  - switch에서 튜플 사용하기
+- 배열
+  - 배열 함수 모음 [<img src="https://emojis.slackmojis.com/emojis/images/1514391005/3320/swift.png?1514391005" width="15">](https://github.com/seolhee2750/SwiftStudy/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85/%EB%B0%B0%EC%97%B4/%EB%B0%B0%EC%97%B4%20%ED%95%A8%EC%88%98%20%EB%AA%A8%EC%9D%8C.playground/Contents.swift) [📋](https://seolhee2750.tistory.com/66?category=873014)
+  - split과 components [<img src="https://emojis.slackmojis.com/emojis/images/1514391005/3320/swift.png?1514391005" width="15">](https://github.com/seolhee2750/SwiftStudy/tree/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85/%EB%B0%B0%EC%97%B4/split%EA%B3%BC%20components) [📋](https://seolhee2750.tistory.com/92?category=866581)
 
 </br>
 
@@ -38,5 +39,4 @@
 ## 📂 기타
 - let을 사용하는 이유 [📋](https://seolhee2750.tistory.com/17?category=866582)
 - Int64 [📋](https://seolhee2750.tistory.com/18?category=866582)
-- sorted, joined 사용시 주의사항 [📋](https://seolhee2750.tistory.com/21?category=866582)
 - nil [📋](https://seolhee2750.tistory.com/10?category=866581)
