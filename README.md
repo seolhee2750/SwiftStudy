@@ -32,7 +32,10 @@
 </br>
 
 ## 📂 클로저 
-- 클로저 [<img src="https://emojis.slackmojis.com/emojis/images/1514391005/3320/swift.png?1514391005" width="15">](https://github.com/seolhee2750/SwiftStudy/blob/main/%ED%81%B4%EB%A1%9C%EC%A0%80/%ED%81%B4%EB%A1%9C%EC%A0%80_sorted%EC%98%88%EB%AC%B8.playground/Contents.swift) [📋](https://seolhee2750.tistory.com/57?category=866581)
+- 클로저 
+  - 클로저 사용 방법 [<img src="https://emojis.slackmojis.com/emojis/images/1514391005/3320/swift.png?1514391005" width="15">](https://github.com/seolhee2750/SwiftStudy/blob/main/%ED%81%B4%EB%A1%9C%EC%A0%80/%ED%81%B4%EB%A1%9C%EC%A0%80%20%20%EC%82%AC%EC%9A%A9%20%EB%B0%A9%EB%B2%95.playground/Contents.swift) [📋](https://seolhee2750.tistory.com/57?category=866581)
+- 함수
+  - inout 파라미터 [<img src="https://emojis.slackmojis.com/emojis/images/1514391005/3320/swift.png?1514391005" width="15">](https://github.com/seolhee2750/SwiftStudy/blob/main/%ED%81%B4%EB%A1%9C%EC%A0%80/%ED%95%A8%EC%88%98/inout%20%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0.playground/Contents.swift) [📋](https://seolhee2750.tistory.com/115)
 
 </br>
 
