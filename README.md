@@ -25,10 +25,15 @@
 
 </br>
 
+## 흐름 제어
+- guard와 if [<img src="https://emojis.slackmojis.com/emojis/images/1514391005/3320/swift.png?1514391005" width="15">](https://github.com/seolhee2750/SwiftStudy/blob/main/%ED%9D%90%EB%A6%84%20%EC%A0%9C%EC%96%B4/guard%EC%99%80%20if%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90.playground/Contents.swift) [📋](https://seolhee2750.tistory.com/116)
+
+</br>
+
 ## 옵셔널 
 - 옵셔널 [📋](https://seolhee2750.tistory.com/4?category=866581)
 - 옵셔널 추출 [<img src="https://emojis.slackmojis.com/emojis/images/1514391005/3320/swift.png?1514391005" width="15">](https://github.com/seolhee2750/SwiftStudy/blob/main/%EC%98%B5%EC%85%94%EB%84%90/%EC%98%B5%EC%85%94%EB%84%90%20%EC%B6%94%EC%B6%9C.playground/Contents.swift) [📋](https://seolhee2750.tistory.com/20?category=866581)
-- 옵셔널 바인딩 (guard let, if let 활용 비교) [<img src="https://emojis.slackmojis.com/emojis/images/1514391005/3320/swift.png?1514391005" width="15">](https://github.com/seolhee2750/SwiftStudy/blob/main/%EC%98%B5%EC%85%94%EB%84%90/%EC%98%B5%EC%85%94%EB%84%90%20%EB%B0%94%EC%9D%B8%EB%94%A9%20guard.playground/Contents.swift)
+- 옵셔널 바인딩 (guard let, if let 활용 비교) [<img src="https://emojis.slackmojis.com/emojis/images/1514391005/3320/swift.png?1514391005" width="15">](https://github.com/seolhee2750/SwiftStudy/blob/main/%EC%98%B5%EC%85%94%EB%84%90/%EC%98%B5%EC%85%94%EB%84%90%20%EB%B0%94%EC%9D%B8%EB%94%A9%20guard.playground/Contents.swift) [📋](https://seolhee2750.tistory.com/116)
 
 </br>
 
