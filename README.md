@@ -22,6 +22,8 @@
 - 배열
   - 배열 함수 모음 [<img src="https://emojis.slackmojis.com/emojis/images/1514391005/3320/swift.png?1514391005" width="15">](https://github.com/seolhee2750/SwiftStudy/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85/%EB%B0%B0%EC%97%B4/%EB%B0%B0%EC%97%B4%20%ED%95%A8%EC%88%98%20%EB%AA%A8%EC%9D%8C.playground/Contents.swift) [📋](https://seolhee2750.tistory.com/66?category=873014)
   - split과 components [<img src="https://emojis.slackmojis.com/emojis/images/1514391005/3320/swift.png?1514391005" width="15">](https://github.com/seolhee2750/SwiftStudy/tree/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85/%EB%B0%B0%EC%97%B4/split%EA%B3%BC%20components) [📋](https://seolhee2750.tistory.com/92?category=866581)
+- 딕셔너리
+  - 딕셔너리 사용 방법 [<img src="https://emojis.slackmojis.com/emojis/images/1514391005/3320/swift.png?1514391005" width="15">](https://github.com/seolhee2750/SwiftStudy/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%2C%20%EC%BB%AC%EB%A0%89%EC%85%98%20%ED%83%80%EC%9E%85/%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC.playground/Contents.swift)
 
 </br>
 
