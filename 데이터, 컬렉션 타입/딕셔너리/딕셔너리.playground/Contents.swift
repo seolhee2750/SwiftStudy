@@ -20,6 +20,10 @@ else { print("존재하지 않음") }
 dic.isEmpty
 dic.count
 
+// 값을 기준으로 정렬도 가능
+dic.sorted(by: >)
+dic
+
 
 // [ 값 할당 ]
 // 1. 기존 값 변경
