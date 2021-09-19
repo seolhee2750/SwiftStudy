@@ -50,6 +50,14 @@
 
 </br>
 
+## 객체지향 프로그래밍과 스위프트 
+- 프로퍼티
+  - 저장 프로퍼티 [<img src="https://emojis.slackmojis.com/emojis/images/1514391005/3320/swift.png?1514391005" width="15">](https://github.com/seolhee2750/SwiftStudy/blob/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5/%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0/%EC%A0%80%EC%9E%A5%20%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0.playground/Contents.swift)
+  - 연산 프로퍼티 [<img src="https://emojis.slackmojis.com/emojis/images/1514391005/3320/swift.png?1514391005" width="15">](https://github.com/seolhee2750/SwiftStudy/blob/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5/%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0/%EC%97%B0%EC%82%B0%20%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0.playground/Contents.swift)
+  - 타입 프로퍼티 
+
+</br>
+
 ## 기타
 - let을 사용하는 이유 [📋](https://seolhee2750.tistory.com/17?category=866582)
 - Int64 [📋](https://seolhee2750.tistory.com/18?category=866582)
