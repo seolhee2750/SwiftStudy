@@ -1,11 +1,10 @@
 import Foundation
-
  
 // ============ [ 저장 프로퍼티 ] ============
 
 // ----------------------------------------
 // (1) 인스턴스 저장 프로퍼티 (Stored Property)
-// => 저장 프로퍼티는 클래스, 구조체 안에서 변수와 상수를 담기 위해 사용한다.
+// => 클래스, 구조체 안에서 변수와 상수를 담기 위해 사용!
 
 struct Info1_sp {
     let name: String = "설희" // 상수 저장 프로퍼티
@@ -53,3 +52,28 @@ class Position {
 // 옵셔널로 지정하여 위치를 지정하고 싶을 때 지정할 수 있다.
 let nowPosition: Position = Position(name: "설희")
 nowPosition.position = Place(placeName: "집")
+
+
+// ----------------------------------------
+// (2) 지연 저장 프로퍼티 (Lazy Stored Property)
+// => 필요할 때 값 할당! lazy 키워드!
+
+struct favoriteFruits {
+    var first: String = "strawberry"
+    var second: String = "peach"
+}
+
+class favoriteFruitsList {
+    lazy var fruits: favoriteFruits = favoriteFruits() // lazy 키워드로 지연 설정!
+    let name: String
+    
+    init(name: String) {
+        self.name = name
+    }
+}
+
+// 여기서는 아직 favoriteFruits 생성x
+let bestFruits: favoriteFruitsList = favoriteFruitsList(name: "seolhee")
+
+// 이 코드를 통해 fruits 프로퍼티로 접근, fruits 프로퍼티의 favoriteFruits가 생성된다.
+print(bestFruits.fruits)
