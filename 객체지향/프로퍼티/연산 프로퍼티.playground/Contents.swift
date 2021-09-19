@@ -49,3 +49,44 @@ print(herName.name) // 내 이름은 설희야!!
 // --> 그냥 연산 프로퍼티(selfIntroduce)를 읽으면 getter가 실행,
 // 어떠한 값을 입력하면 setter가 실행!
 
+
+// ----------------------------------------
+// (1)-1 읽기 전용 연산 프로퍼티 읽기 전용 (get-only Computed Properties)
+// => setter가 필요 없으면 set 없이 get만 사용 가능!
+//
+// (메서드로 구현 시 읽기 전용, 쓰기 전용 모두 가능하지만 연산 프로퍼티는 읽기 전용만 가능하다.
+// 그럼에도 불구하고 연산에 있어서 연산 프로퍼티를 사용하는 이유는,
+// 메서드는 getter와 setter를 따로 구현해야하며, 그로 인해 가독성도 나빠지게 되는데에 비해
+// 연산 프로퍼티를 사용하면 한 번에 구현이 가능하여 간편하고, 직관적이기 때문이다.)
+
+struct Person2 {
+    var name: String = "설희"
+    
+    var selfIntroduce: String {
+        get {
+            return "내 이름은 \(name)야??"
+        }
+    }
+}
+
+var herName2: Person = Person()
+
+print(herName2.selfIntroduce) // 내 이름은 설희야??
+
+// set에 접근 -> 오류
+// herName2.selfIntroduce = "설희"
+// print(herName2.name)
+
+// + 추가
+// get만 쓸 때는 get 키워드 없이 구현도 가능하다.
+struct Person3 {
+    var name: String = "설희"
+    
+    var selfIntroduce: String {
+        return "내 이름은 \(name)야??"
+    }
+}
+
+var herName3: Person = Person()
+
+print(herName3.selfIntroduce) // 내 이름은 설희야??
