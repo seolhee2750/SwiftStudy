@@ -41,17 +41,14 @@ struct Place {
 
 class Position {
     var position: Place? // 현재 위치를 모를수도 있으므로 옵셔널로 지정
-    let name: String
-    
-    init(name: String) {
-        self.name = name
-    }
+    let name: String = "설희"
 }
 
 // 필수 값만 먼저 할당하고, 값이 있어도 없어도 상관없는 프로퍼티는
 // 옵셔널로 지정하여 위치를 지정하고 싶을 때 지정할 수 있다.
-let nowPosition: Position = Position(name: "설희")
+let nowPosition: Position = Position()
 nowPosition.position = Place(placeName: "집")
+print(nowPosition.name, nowPosition.position!) // 설희 Place(placeName: "집")
 
 
 // ----------------------------------------
