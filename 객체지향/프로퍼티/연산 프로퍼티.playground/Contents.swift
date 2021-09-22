@@ -69,7 +69,7 @@ struct Person2 {
     }
 }
 
-var herName2: Person = Person()
+var herName2: Person2 = Person2()
 
 print(herName2.selfIntroduce) // 내 이름은 설희야??
 
@@ -87,6 +87,6 @@ struct Person3 {
     }
 }
 
-var herName3: Person = Person()
+var herName3: Person3 = Person3()
 
 print(herName3.selfIntroduce) // 내 이름은 설희야??
