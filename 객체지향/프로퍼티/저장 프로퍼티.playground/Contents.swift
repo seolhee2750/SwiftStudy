@@ -73,4 +73,4 @@ class favoriteFruitsList {
 let bestFruits: favoriteFruitsList = favoriteFruitsList(name: "seolhee")
 
 // 이 코드를 통해 fruits 프로퍼티로 접근, fruits 프로퍼티의 favoriteFruits가 생성된다.
-print(bestFruits.fruits)
+print(bestFruits.fruits) // favoriteFruits(first: "strawberry", second: "peach")
