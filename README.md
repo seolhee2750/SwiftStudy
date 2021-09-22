@@ -14,7 +14,7 @@
 
 ## 데이터, 컬렉션 타입
 - 타입
-  - 타입 어노테이션과 타입 추론 [<img src="https://emojis.slackmojis.com/emojis/images/1514391005/3320/swift.png?1514391005" width="15">](https://github.com/seolhee2750/SwiftStudy/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85/%ED%83%80%EC%9E%85/%ED%83%80%EC%9E%85%20%EC%B6%94%EB%A1%A0%EA%B3%BC%20%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98.playground/Contents.swift) [📋](https://seolhee2750.tistory.com/19?category=866581)
+  - 타입 어노테이션과 타입 추론 [<img src="https://emojis.slackmojis.com/emojis/images/1514391005/3320/swift.png?1514391005" width="15">](https://github.com/seolhee2750/SwiftStudy/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%2C%20%EC%BB%AC%EB%A0%89%EC%85%98%20%ED%83%80%EC%9E%85/%ED%83%80%EC%9E%85/%ED%83%80%EC%9E%85%20%EC%B6%94%EB%A1%A0%EA%B3%BC%20%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98.playground/Contents.swift)
   - sorted, joined 사용시 주의사항 (타입 캐스팅) [📋](https://seolhee2750.tistory.com/21?category=866582)
 - 튜플
   - 튜플 [<img src="https://emojis.slackmojis.com/emojis/images/1514391005/3320/swift.png?1514391005" width="15">](https://github.com/seolhee2750/SwiftStudy/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85/%ED%8A%9C%ED%94%8C.playground/Contents.swift)
@@ -52,9 +52,9 @@
 
 ## 객체지향 프로그래밍과 스위프트 
 - 프로퍼티
-  - 저장 프로퍼티 [<img src="https://emojis.slackmojis.com/emojis/images/1514391005/3320/swift.png?1514391005" width="15">](https://github.com/seolhee2750/SwiftStudy/blob/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5/%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0/%EC%A0%80%EC%9E%A5%20%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0.playground/Contents.swift)
-  - 연산 프로퍼티 [<img src="https://emojis.slackmojis.com/emojis/images/1514391005/3320/swift.png?1514391005" width="15">](https://github.com/seolhee2750/SwiftStudy/blob/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5/%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0/%EC%97%B0%EC%82%B0%20%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0.playground/Contents.swift)
-  - 타입 프로퍼티 
+  - 저장 프로퍼티 [<img src="https://emojis.slackmojis.com/emojis/images/1514391005/3320/swift.png?1514391005" width="15">](https://github.com/seolhee2750/SwiftStudy/blob/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5/%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0/%EC%A0%80%EC%9E%A5%20%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0.playground/Contents.swift) [📋](https://seolhee2750.tistory.com/118)
+  - 연산 프로퍼티 [<img src="https://emojis.slackmojis.com/emojis/images/1514391005/3320/swift.png?1514391005" width="15">](https://github.com/seolhee2750/SwiftStudy/blob/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5/%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0/%EC%97%B0%EC%82%B0%20%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0.playground/Contents.swift) [📋](https://seolhee2750.tistory.com/119)
+  - 타입 프로퍼티 [<img src="https://emojis.slackmojis.com/emojis/images/1514391005/3320/swift.png?1514391005" width="15">](https://github.com/seolhee2750/SwiftStudy/blob/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5/%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0/%ED%83%80%EC%9E%85%20%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0.playground/Contents.swift) [📋](https://seolhee2750.tistory.com/120)
 
 </br>
 
