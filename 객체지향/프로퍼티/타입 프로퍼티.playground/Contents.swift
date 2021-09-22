@@ -32,4 +32,3 @@ class seolhee_Info2 {
 }
 
 print(seolhee_Info2.introduce) // 설희
-seolhee_Info2.introduce
