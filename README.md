@@ -59,6 +59,12 @@
 
 </br>
 
+## 메모리 관리
+- ARC
+  - ARC의 동작, Retain Count 방식 [📋](https://seolhee2750.tistory.com/121)
+
+</br>
+
 ## 기타
 - let을 사용하는 이유 [📋](https://seolhee2750.tistory.com/17?category=866582)
 - Int64 [📋](https://seolhee2750.tistory.com/18?category=866582)
