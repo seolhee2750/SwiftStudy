@@ -51,7 +51,9 @@
 
 </br>
 
-## 객체지향 프로그래밍과 스위프트 
+## 객체지향 프로그래밍과 스위프트
+- 구조체, 클래스
+  - 구조체, 클래스 비교 [<img src="https://emojis.slackmojis.com/emojis/images/1514391005/3320/swift.png?1514391005" width="15">](https://github.com/seolhee2750/SwiftStudy/blob/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5/%EA%B5%AC%EC%A1%B0%EC%B2%B4%EC%99%80%20%ED%81%B4%EB%9E%98%EC%8A%A4/%EA%B5%AC%EC%A1%B0%EC%B2%B4%EC%99%80%20%ED%81%B4%EB%9E%98%EC%8A%A4%20%EC%B0%A8%EC%9D%B4%EC%A0%90.playground/Contents.swift) [📋](https://seolhee2750.tistory.com/122)
 - 프로퍼티
   - 저장 프로퍼티 [<img src="https://emojis.slackmojis.com/emojis/images/1514391005/3320/swift.png?1514391005" width="15">](https://github.com/seolhee2750/SwiftStudy/blob/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5/%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0/%EC%A0%80%EC%9E%A5%20%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0.playground/Contents.swift) [📋](https://seolhee2750.tistory.com/118)
   - 연산 프로퍼티 [<img src="https://emojis.slackmojis.com/emojis/images/1514391005/3320/swift.png?1514391005" width="15">](https://github.com/seolhee2750/SwiftStudy/blob/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5/%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0/%EC%97%B0%EC%82%B0%20%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0.playground/Contents.swift) [📋](https://seolhee2750.tistory.com/119)
@@ -61,7 +63,7 @@
 
 ## 메모리 관리
 - ARC
-  - ARC의 동작, Retain Count 방식 [📋](https://seolhee2750.tistory.com/121)
+  - ARC의 동작, Retain Count 방식 [<img src="https://emojis.slackmojis.com/emojis/images/1514391005/3320/swift.png?1514391005" width="15">](https://github.com/seolhee2750/SwiftStudy/blob/main/%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EA%B4%80%EB%A6%AC/ARC%20%EB%A0%88%ED%8D%BC%EB%9F%B0%EC%8A%A4%20%EC%B9%B4%EC%9A%B4%ED%8C%85.playground/Contents.swift) [📋](https://seolhee2750.tistory.com/121)
 
 </br>
 
