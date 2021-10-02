@@ -32,5 +32,5 @@ test1 = nil // Example_A 참조 횟수 : 0, Example_B 참조 횟수 : 1 (Prints 
 // => Example_A의 참조 횟수만 줄어든게 아니라 Example_B의 참조 횟수까지 같이 줄어듬
 // 이건 당연하지만, Example_A가 메모리에서 해제됨과 동시에 Example_A의 프로퍼티인 변수 A도 역할을 끝내게 되므로
 // Example_B를 참조하는 것을 그만두게됨. 따라서 Example_B의 참조 횟수도 1 줄어드는 것!!
-// print(test2?.B) // Prints "nil"
+// print(test2?.B) // Prints "nil" (test2가 참조하는 Example_A 인스턴스가 메모리에서 해제되었기 때문)
 test2 = nil // Example_B 참조 횟수 : 0 (Prints "being deinitialized")
