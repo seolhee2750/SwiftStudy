@@ -32,3 +32,4 @@ test1 = nil // Example_A 참조 횟수 : 0, Example_B 참조 횟수 : 1 (Prints 
 print(test2?.B) // Prints "nil"
 test2 = nil // Example_B 참조 횟수 : 0 (Prints "being deinitialized")
 // => 문제없이 메모리 해제 완료!
+//ㅓ
