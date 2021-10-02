@@ -21,7 +21,7 @@ class Example_B {
 }
 
 var test1: Example_A? = Example_A() // Example_A 참조 횟수 : 1 (Prints "being initialized")
-var test2: Example_B? = Example_B() // Example_B 참조 횟수 : 1 (Prints "bein
+var test2: Example_B? = Example_B() // Example_B 참조 횟수 : 1 (Prints "being initialized")
 
 test1?.A = test2 // Example_B 참조 횟수 : 2
 test2?.B = test1 // Example_A 참조 횟수 : 1
