@@ -63,7 +63,9 @@
 
 ## 메모리 관리
 - ARC의 동작, Retain Count 방식 [<img src="https://emojis.slackmojis.com/emojis/images/1514391005/3320/swift.png?1514391005" width="15">](https://github.com/seolhee2750/SwiftStudy/blob/main/%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EA%B4%80%EB%A6%AC/ARC%20%EB%A0%88%ED%8D%BC%EB%9F%B0%EC%8A%A4%20%EC%B9%B4%EC%9A%B4%ED%8C%85.playground/Contents.swift) [📋](https://seolhee2750.tistory.com/121)
-- 강한 참조, Retain Cycle [<img src="https://emojis.slackmojis.com/emojis/images/1514391005/3320/swift.png?1514391005" width="15">](https://github.com/seolhee2750/SwiftStudy/blob/main/%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EA%B4%80%EB%A6%AC/Retain%20Cycle%20%EB%AC%B8%EC%A0%9C.playground/Contents.swift)
+- 강한참조, Retain Cycle [<img src="https://emojis.slackmojis.com/emojis/images/1514391005/3320/swift.png?1514391005" width="15">](https://github.com/seolhee2750/SwiftStudy/blob/main/%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EA%B4%80%EB%A6%AC/Retain%20Cycle%20%EB%AC%B8%EC%A0%9C.playground/Contents.swift) [📋](https://seolhee2750.tistory.com/123)
+- 약한참조 [<img src="https://emojis.slackmojis.com/emojis/images/1514391005/3320/swift.png?1514391005" width="15">](https://github.com/seolhee2750/SwiftStudy/blob/main/%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EA%B4%80%EB%A6%AC/%EC%95%BD%ED%95%9C%EC%B0%B8%EC%A1%B0.playground/Contents.swift) [📋](https://seolhee2750.tistory.com/123)
+- 미소유참조 [<img src="https://emojis.slackmojis.com/emojis/images/1514391005/3320/swift.png?1514391005" width="15">](https://github.com/seolhee2750/SwiftStudy/blob/main/%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EA%B4%80%EB%A6%AC/%EB%AF%B8%EC%86%8C%EC%9C%A0%EC%B0%B8%EC%A1%B0.playground/Contents.swift) [📋](https://seolhee2750.tistory.com/123)
 
 </br>
 
