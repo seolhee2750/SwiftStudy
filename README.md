@@ -21,7 +21,7 @@
 - 배열
   - 배열 함수 모음 [[코드]](https://github.com/seolhee2750/SwiftStudy/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%2C%20%EC%BB%AC%EB%A0%89%EC%85%98%20%ED%83%80%EC%9E%85/%EB%B0%B0%EC%97%B4/%EB%B0%B0%EC%97%B4%20%ED%95%A8%EC%88%98%20%EB%AA%A8%EC%9D%8C.playground/Contents.swift) [[블로그]](https://seolhee2750.tistory.com/66?category=873014)
   - split과 components [[코드]](https://github.com/seolhee2750/SwiftStudy/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%2C%20%EC%BB%AC%EB%A0%89%EC%85%98%20%ED%83%80%EC%9E%85/%EB%B0%B0%EC%97%B4/split%EA%B3%BC%20components/components%EC%99%80%20split%20%EB%B9%84%EA%B5%90.playground/Contents.swift) [[블로그]](https://seolhee2750.tistory.com/92?category=866581)
-  - split 파라미터[[코드]](https://github.com/seolhee2750/SwiftStudy/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%2C%20%EC%BB%AC%EB%A0%89%EC%85%98%20%ED%83%80%EC%9E%85/%EB%B0%B0%EC%97%B4/split%EA%B3%BC%20components/split%20%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0.playground/Contents.swift)
+  - split 파라미터 [[코드]](https://github.com/seolhee2750/SwiftStudy/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%2C%20%EC%BB%AC%EB%A0%89%EC%85%98%20%ED%83%80%EC%9E%85/%EB%B0%B0%EC%97%B4/split%EA%B3%BC%20components/split%20%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0.playground/Contents.swift)
 - 딕셔너리
   - 딕셔너리 사용 방법 [[코드]](https://github.com/seolhee2750/SwiftStudy/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%2C%20%EC%BB%AC%EB%A0%89%EC%85%98%20%ED%83%80%EC%9E%85/%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC/%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC.playground/Contents.swift)
 - 세트
